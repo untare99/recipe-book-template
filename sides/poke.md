@@ -15,4 +15,5 @@
 
 ## Instructions
 
-Mix ingredients in a bowl.
+Mix ingredients in a bowl.  
+Place it to the plate.
