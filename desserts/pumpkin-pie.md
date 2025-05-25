@@ -34,6 +34,6 @@
 ## Baking
 
 - 15 min at 425 F
-- 40-50 min at 350 F
+- 40-50 min at 400 F
 - 1 hour at 300 F
 
