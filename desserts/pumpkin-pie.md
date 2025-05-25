@@ -7,6 +7,7 @@
 - Bake pumpkin/squash
 - Take out the inside of the pumpkin
 - Use 2 cups of pumpkin pulp per pie
+- I'm not sure thet !!
 
 
 ## Ingredients
@@ -35,5 +36,5 @@
 
 - 15 min at 425 F
 - 40-50 min at 400 F
-- 1 hour at 350 F
+- 1 hour at 550 F
 
